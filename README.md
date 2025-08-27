@@ -6,7 +6,7 @@
   <br>
   <br>
   <h3>i like to draw stuff sometimes</h3>
-  <p>tell me about your deltarune ships ill listen. #true</p>
+  <p>tell me about your deltarune ships. ill chime in about it smiles</p>
   <br>
   <img src="https://github.com/polymikez/images/blob/main/ezgif.com-animated-gif-maker%20(3).gif?raw=true">
   <img src="https://github.com/polymikez/images/blob/main/ezgif.com-animated-gif-maker%20(2).gif?raw=true">
