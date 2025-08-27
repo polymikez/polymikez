@@ -2,10 +2,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=polymikez.visitor-badge&left_color=green&right_color=lightgrey&left_text=pluey-euthanasia-funds ">
   <br>
   <br>
-  <p>image goes here</p>
+   <img src="https://github.com/polymikez/images/blob/main/ezgif.com-animated-gif-maker%20(1).gif?raw=true" width="80%" height="auto">
   <br>
   <br>
-  <p>i like to draw battat sometimes</p>
+  <p>i like to draw stuff sometimes</p>
 </div>
-
-<!--- <img src="https://github.com/user-attachments/assets/0500f14b-bad9-4751-a3ed-0f78bbc67fac" width="70%" height="auto">
